@@ -1,5 +1,5 @@
-**HR Analytics Dashboard - Attrition Analysis | Power BI , PostgreSQL 
-**
+**HR Analytics Dashboard - Attrition Analysis | Power BI , PostgreSQL **
+
 Analyzed attrition trends using Power BI and identified higher attrition among bachelor’s degree holders, employees from Life Sciences background, R&D department, and male employees, with an average attrition rate of 16.12%.
 
 **Tools :** Power BI , PostgreSQL 
